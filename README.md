@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
 
 # Hi there, I'm Naman!
 
@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://codeforces.com/profile/naman1005">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/naman1005">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
